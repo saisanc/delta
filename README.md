@@ -1,2 +1,1 @@
-# delta
-this demo for delta
+just practice material
